@@ -4,14 +4,22 @@
     "Abder",
     "coche",
     "defaultdict",
+    "elif",
     "frozenset",
     "hashable",
+    "isocalendar",
+    "issubset",
+    "issuperset",
+    "namedtuple",
     "papel",
     "pluma",
     "puerta",
     "quix",
     "quux",
     "Rahman",
-    "stylo"
+    "strptime",
+    "stylo",
+    "timedelta",
+    "timespan"
   ]
 }
