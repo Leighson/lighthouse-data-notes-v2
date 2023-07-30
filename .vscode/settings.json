@@ -10,6 +10,7 @@
     "isocalendar",
     "issubset",
     "issuperset",
+    "mday",
     "namedtuple",
     "papel",
     "pluma",
@@ -20,6 +21,8 @@
     "strptime",
     "stylo",
     "timedelta",
-    "timespan"
+    "timespan",
+    "wday",
+    "yday"
   ]
 }
