@@ -161,4 +161,4 @@ cython_debug/
 
 _exercises
 _data
-*.DS_Store
+.DS_Store
